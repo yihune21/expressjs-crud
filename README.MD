@@ -1,0 +1,1 @@
+Create a basic expressjs CRUD REST API that manages a [City] resource using an in-memory Array (no need for database persistence). Publish the code in a public GitHub repository and submit the repository link.
