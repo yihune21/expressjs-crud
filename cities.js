@@ -32,4 +32,4 @@ const cities = [
   "Johannesburg"
 ];
 
-export default cities; 
+module.exports = cities;
